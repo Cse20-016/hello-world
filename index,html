@@ -1,143 +1,60 @@
-<h1>MICROSOFT OFFICE USER</h1>
-<!DOCTYPE html> 
-
- 
-
- 
-
- 
-
+<!Doctytpe html>
 <html>
-
+<head>
+<title>Template</title>
+<head/>
+<body>
+     <aside>
+            OBJECTIVE
+            To get started, click 
+            placeholder text and start 
+            typing.Be brief: one or two 
+            sentences.
+            Double-click the table cells in 
+            the footer to add your contact 
+            info (or delete the columns
+            you don’t want)
+            <aside/>
+<header>
+<section>
  
+                EXPERIENCE
+JOB TITLE • COMPANY • DATES FROM – TO
+Summarize your key responsibilities, leadership, and most stellar 
+accomplishments. Don’t list everything; keep it relevant and 
+include data that shows the impact you made.
 
- 
+JOB TITLE • COMPANY • DATES FROM – TO
+Think about the size of the team you led, the number of projects
+ you balanced, or the number of articles you wrote.
+</section>
+ <section>
+                EDUCATION
+DEGREE • DATE EARNED • SCHOOL
+You might want to include your GPA and a summary of relevant 
+coursework, awards, and honors.
 
- 
-
-   <head> 
-
- 
-
-      <meta charset="LONE YAONE DIKOLE"> 
-
- 
-
-      <title>YN</title> 
-
- 
-
-   </head> 
-
- 
-
- 
-
- 
-
-   <body> 
-
- 
-
- 
-
- 
-
-      <header role="Personal layout"> 
-
- 
-
-         <h1>OBJECTIVE</h1> 
-
- 
-
-         <p>To get started, click placeholder text and start tyoing.Be brief use one or two sentences.</p> 
-         
-       <h1>EXPERIENCE</h1>
-       <strong>JOB TITLE.COMPANY.DATES FROM-TO</strong>
-       <p>Summarise you key responsibilities,leadership and biggest accomplishment.Don't list everything-keep it relevant and include information that shows the impact that you made.
-        <br><br><strong>JOB TITLE.COMPANY.DATES FROM-TO</strong>
-       <p>Think about the size of the teams you've led,the number of projects you've managed successfully or the number of article you've written.
-         
-      </header> 
-
- 
-
-
-      <article> 
-
- 
-
-         <section> 
-             
-          <h1>EDUCATION</h1>
-            <strong>DEGREE OR QUALIFICATION.DATE EARNED.UNIVERSITY OR COLLEGE</strong>
-          <p>You might want to include your marks here and a brief summary of relevant coursework,awards and honours.</p>
-          <br><br><strongDEGREE OR QUALIFICATIION .DATE EARNED . UNIVERSITY OR COLLEGE</strong>
-          <p>In the home tab of the ribbon, take alook at styles to apply the formatting youneed with just a click</p>
-       
-         </section> 
-
- 
-
-      </article> 
-
- 
-
- 
-
- 
-
-      <aside> 
-          
-       <h1>SKILL</h1>
-         <p>Explain what good at.What sees you apart?Use your own launguage-not jargon.</p> 
-         <h1>VOLUNTEER EXPERINCE OR LEADERSHIP</h1>
-         <p>Did you manage a team for your club, lead a campaign for you favourite charity or edit your school's newspaper?Go ahead and describe experinces that illustrate your leadership abilities.</p>
-       
-      </aside> 
-
- 
-
-       
-
- 
-
-      <figure align="right"> 
-
- 
-
-        <img src="/html5/images/logo.png" alt="TutorialPoint" width="200" height="100"> 
-
- 
-
-      </figure> 
-
- 
-
-       
-
- 
-
-      <footer> 
-
- 
-
-         <p>Created by Lone Dikole <a href="#">Tutorials Point</a></p> 
-
- 
-
-      </footer> 
-
- 
-
- 
-
- 
-
-   </body> 
-
- 
-
-</html> 
+DEGREE • DATE EARNED • SCHOOL
+On the Home tab of the ribbon, check out Styles to apply the 
+formatting you need with just a click.
+</section>
+<header>
+<section>
+    VOLUNTEER EXPERIENCE OR LEADERSHIP
+    Did you manage a team for your club, lead a project for your 
+    favorite charity, or edit your school newspaper? Go ahead and 
+    describe experiences that illustrate your leadership abilities.
+</section>
+<section>
+    SKILLS
+    Explain what you’re 
+    especially good at. What sets 
+    you apart? Use your own 
+    language—not jargon
+</section>
+<footer>
+          copyrights &copy;2021.All right reserved.
+</footer>
+</body>
+</html>
  
