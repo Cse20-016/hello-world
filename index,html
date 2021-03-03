@@ -1,162 +1,63 @@
-<h1>MICROSOFT OFFICE USER</h1>
-<!DOCTYPE html>
-
-
-
-
-
-
+<DOCTYPE html>
 <html>
-
-
-
-
-
-
-
-<head>
-
-
-
-
-<meta charset="LONE YAONE DIKOLE">
-
-
-
-
-<title>YN</title>
-
-
-
-
-</head>
-
-
-
-
-
-
-
-
-<body>
-
-
-
-
-
-
-
-
-<header role="Personal layout">
-
-
-
-
-
-<h1>OBJECTIVE</h1>
-
-
-
-
-
-<p>To get started, click placeholder text and start tyoing.Be brief use one or two sentences.</p>
-
-<h1>EXPERIENCE</h1>
-<strong>JOB TITLE.COMPANY.DATES FROM-TO</strong>
-<p>Summarise you key responsibilities,leadership and biggest accomplishment.Don't list everything-keep it relevant and include information that shows the impact that you made.
-<br><br><strong>JOB TITLE.COMPANY.DATES FROM-TO</strong>
-<p>Think about the size of the teams you've led,the number of projects you've managed successfully or the number of article you've written.
-
-</header>
-
-
-
-
-
-
-<article>
-
-
-
-
-
-<section>
-
-<h1>EDUCATION</h1>
-<strong>DEGREE OR QUALIFICATION.DATE EARNED.UNIVERSITY OR COLLEGE</strong>
-<p>You might want to include your marks here and a brief summary of relevant coursework,awards and honours.</p>
-<br><br><strongDEGREE OR QUALIFICATIION .DATE EARNED . UNIVERSITY OR COLLEGE</strong>
-<p>In the home tab of the ribbon, take alook at styles to apply the formatting youneed with just a click</p>
-
-</section>
-
-
-
-
-
-</article>
-
-
-
-
-
-
-
-
-
-<aside>
-
-<h1>SKILL</h1>
-<p>Explain what good at.What sees you apart?Use your own launguage-not jargon.</p>
-<h1>VOLUNTEER EXPERINCE OR LEADERSHIP</h1>
-<p>Did you manage a team for your club, lead a campaign for you favourite charity or edit your school's newspaper?Go ahead and describe experinces that illustrate your leadership abilities.</p>
-
-</aside>
-
-
-
-
-
-
-
-
-
-<figure align="right">
-
-
-
-
-
-<img src="/html5/images/logo.png" alt="TutorialPoint" width="200" height="100">
-
-
-
-
-
-</figure>
-
-
-
-
-
-
-
-<footer>
-
-
-
-<p>Created by Lone Dikole <a href="#">Tutorials Point</a></p>
-
-
-
-</footer>
-
-
-
-</body>
-
-
-
-
-
+   <head>
+        <title>
+        RESUME TEMPLATE
+		</title>
+   </head>
+   <body>
+     
+	 <h1><b><strong>RESUME TEMPLATE</strong></b></h1>
+	     <section>
+    	   <aside>
+              <h><b>OBJECTIVE</b></h>
+		        <p>To get started, click place holder text and start typing.
+		          Be brief. Write one or two sentences.
+		          Double click the table cells in the footer to add your contacts
+                  information and (or delete the columns if you do not want to).
+			   </p>
+		   </aside>
+		 </section>
+		 <section> 
+		    <aside>
+		      <h><b>EXPERIENCE</b></h>
+		            <p><h>JOB TITLE  COMPANY  DATES FROM-TO</h></p>
+		         <p>Summarise your key responsibilities, leadership and most stellar accomplishments.
+				    Do not list everything, keep it relavent and short. Include data that shows the
+					impact you made.
+		            </P>
+				 <p>
+				    <p><h>JOB TITLE  COMPANY  DATES FROM-TO</h></P>
+				 <p>Think about the size of the team you lead, the number of projects you
+				    balanced, or the number of articles you wrote
+                   </p>
+				 </p> 
+            </aside>
+		 </section>
+         <section>
+		    <aside>
+			   <h><b>EDUCATION</b></h>
+			     <p>DEGREE  DATE EARNED  SCHOOL</p>
+				  <p>You might want to include your GPA and a summary of relavent 
+				     coursework, awards and honors.
+				 <p>VOLUNTEERING EXPERINCE OR LEADERSHIP</P>
+				      Did you manage a team for your club, lead a project for your 
+				      favourite charity , or edit your school newspaper? Go ahead
+					  and deascribe experiences that elloustrates your leadership 
+					  abilities.
+				   </p>
+			        
+		 </section>
+         <section
+		    <aside>
+			    <h><b>SKILLS</b><h>
+				  <p>Explain what you are especially good at. What sets you apart?
+				     Use your own language,-not jargon.
+				  </p>
+			</aside>
+		 </section>
+   </body>
+   <footer>
+     copyrights & copy; 2021. All rights reserved.
+   </footer>
 </html>
